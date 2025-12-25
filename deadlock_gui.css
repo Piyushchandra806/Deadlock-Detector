@@ -1,0 +1,28 @@
+window {
+    background-color: #0f172a;
+    font-family: "Segoe UI", sans-serif;
+}
+
+label {
+    color: #e5e7eb;
+    font-size: 14px;
+}
+
+button {
+    background: linear-gradient(to right, #38bdf8, #22c55e);
+    color: #020617;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+entry {
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #020617;
+    color: #e5e7eb;
+}
+
+drawingarea {
+    background-color: #020617;
+}
